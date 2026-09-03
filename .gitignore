@@ -1,8 +1,2 @@
-#dependency
-password1234/
-
-#logs
-*.logs
-
 # Environment / secrets
 .env
