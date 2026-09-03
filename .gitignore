@@ -1,1 +1,5 @@
-password1234
+#dependency
+password1234/
+
+#logs
+*.logs
